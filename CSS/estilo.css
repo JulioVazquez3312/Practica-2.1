@@ -399,6 +399,10 @@ body {
   top: 1890px;
   left: 0px;
   overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
 }
 
 .v1_197 {
@@ -410,6 +414,8 @@ body {
   top: 10px;
   left: 0px;
   overflow: hidden;
+  overflow: hidden;
+  display: flex;
 }
 
 .v1_198 {
@@ -550,7 +556,7 @@ body {
   opacity: 1;
   position: absolute;
   top: 2549px;
-  left: 59px;
+  left: 0px;
   overflow: hidden;
 }
 
@@ -565,7 +571,7 @@ body {
   opacity: 1;
   position: absolute;
   top: 0px;
-  left: 59px;
+  left: -10px;
   overflow: hidden;
 }
 
@@ -576,7 +582,7 @@ body {
   opacity: 1;
   position: absolute;
   top: 0px;
-  left: 1038px;
+  left: 979px;
   overflow: hidden;
 }
 
